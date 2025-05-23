@@ -1,0 +1,16 @@
+# bash prompt
+export PS1="\e[1;31m[\u@\h\e[0m \W\e[1;31m]\$ \e[0m"
+
+# common commands
+alias grep='grep --color=auto'
+alias ls='ls -alh --color=auto --group-directories-first'
+alias q='exit'
+alias c='clear'
+alias h='history'
+cdl() {
+    cd $1; ls
+}
+
+# custom
+alias update='sudo pacman -Syu'
+alias cbonsai='cbonsai -S'

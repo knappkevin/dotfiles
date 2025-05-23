@@ -1,0 +1,150 @@
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=123,28,38
+BackgroundNormal=49,54,59
+DecorationFocus=155,17,30
+DecorationHover=155,17,30
+ForegroundActive=155,17,30
+ForegroundInactive=161,169,177
+ForegroundLink=253,171,173
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Complementary]
+BackgroundAlternate=30,87,116
+BackgroundNormal=42,46,50
+DecorationFocus=155,17,30
+DecorationHover=155,17,30
+ForegroundActive=155,17,30
+ForegroundInactive=161,169,177
+ForegroundLink=253,171,173
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Selection]
+BackgroundAlternate=116,20,30
+BackgroundNormal=116,20,30
+DecorationFocus=155,17,30
+DecorationHover=155,17,30
+ForegroundActive=155,17,30
+ForegroundInactive=255,255,255
+ForegroundLink=113,12,22
+ForegroundNegative=176,55,69
+ForegroundNeutral=198,92,0
+ForegroundNormal=255,255,255
+ForegroundPositive=23,104,57
+ForegroundVisited=155,89,182
+
+[Colors:Tooltip]
+BackgroundAlternate=42,46,50
+BackgroundNormal=49,54,59
+DecorationFocus=155,17,30
+DecorationHover=155,17,30
+ForegroundActive=155,17,30
+ForegroundInactive=161,169,177
+ForegroundLink=253,171,173
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:View]
+BackgroundAlternate=35,38,41
+BackgroundNormal=27,30,32
+DecorationFocus=155,17,30
+DecorationHover=155,17,30
+ForegroundActive=155,17,30
+ForegroundInactive=161,169,177
+ForegroundLink=253,171,173
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[Colors:Window]
+BackgroundAlternate=49,54,59
+BackgroundNormal=42,46,50
+DecorationFocus=155,17,30
+DecorationHover=155,17,30
+ForegroundActive=155,17,30
+ForegroundInactive=161,169,177
+ForegroundLink=253,171,173
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal=252,252,252
+ForegroundPositive=39,174,96
+ForegroundVisited=155,89,182
+
+[DirSelect Dialog]
+DirSelectDialog Size=938,983
+History Items[$e]=file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/Downloads/NESAVE,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/,file:$HOME/Pictures,file:$HOME/Projects,file:$HOME/Pictures/red,file:///run/media/kevin/6811fe41-d44d-4935-aabf-e3d607760611,file:$HOME/Downloads,file:///run/media/kevin/6ec13dab-173a-4c57-962a-60802ed0b0c1
+Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[General]
+AccentColor=155,17,30
+ColorSchemeHash=98139d0bac64c4e9f97721675584832c7c7a0bf0
+LastUsedCustomAccentColor=155,17,30
+TerminalApplication=ghostty
+TerminalService=com.mitchellh.ghostty.desktop
+
+[KDE]
+LookAndFeelPackage=org.kde.breezedark.desktop
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort directories first=true
+Sort hidden files last=false
+Sort reversed=false
+Speedbar Width=140
+View Style=DetailTree
+
+[WM]
+activeBackground=49,54,59
+activeBlend=252,252,252
+activeForeground=252,252,252
+frame=155,17,30
+inactiveBackground=42,46,50
+inactiveBlend=161,169,177
+inactiveForeground=161,169,177
+inactiveFrame=239,240,241
