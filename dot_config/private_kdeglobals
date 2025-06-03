@@ -105,7 +105,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [DirSelect Dialog]
-DirSelectDialog Size=938,983
+DirSelectDialog Size=1258,1349
 History Items[$e]=file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/Downloads/NESAVE,file:$HOME/Downloads,file:$HOME/Downloads,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/,file:$HOME/.var/app/com.valvesoftware.Steam/.local/share/Daedalic Entertainment GmbH/Barotrauma/Multiplayer/,file:$HOME/.var/,file:$HOME/Pictures,file:$HOME/Projects,file:$HOME/Pictures/red,file:///run/media/kevin/6811fe41-d44d-4935-aabf-e3d607760611,file:$HOME/Downloads,file:///run/media/kevin/6ec13dab-173a-4c57-962a-60802ed0b0c1
 Splitter State=\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x02\x00\x00\x00\x8c\x00\x00\x02\xa8\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
 
@@ -131,7 +131,7 @@ Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
-Show hidden files=false
+Show hidden files=true
 Sort by=Name
 Sort directories first=true
 Sort hidden files last=false
@@ -143,7 +143,7 @@ View Style=DetailTree
 activeBackground=49,54,59
 activeBlend=252,252,252
 activeForeground=252,252,252
-frame=155,17,30
+frame=255,17,30
 inactiveBackground=42,46,50
 inactiveBlend=161,169,177
 inactiveForeground=161,169,177
