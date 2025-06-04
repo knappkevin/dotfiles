@@ -280,3 +280,17 @@
 ; 3 = 1 # midtone
 ; 4 = 1
 ; 5 = 1 # treble
+### Auto generated wallbash colors ###
+
+[color]
+
+ gradient = 1
+ gradient_count = 8
+ gradient_color_1 = '#52292C'
+ gradient_color_2 = '#6B3A3D'
+ gradient_color_3 = '#7D4B5C'
+ gradient_color_4 = '#8F576A'
+ gradient_color_5 = '#A3656A'
+ gradient_color_6 = '#C27A80'
+ gradient_color_7 = '#E69AAC'
+ gradient_color_8 = '#F0AABB'
