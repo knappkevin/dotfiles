@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mods name="client sided">
+  <Vanilla />
+  <Workshop name="Lua For Barotrauma" id="2559634234" />
+  <Workshop name="Lua For Barotrauma Linux" id="2970628943" />
+  <Workshop name="CsForBarotrauma" id="2795927223" />
+  <Workshop name="Performance Fix" id="2701251094" />
+  <Workshop name="BetterHealthUI (Updated)" id="3231293294" />
+  <Workshop name="Quick Swap Hand~Bag" id="3420322034" />
+  <Workshop name="Press R to Reload" id="3413495302" />
+  <Workshop name="Unconscious Healthbars" id="3189828754" />
+  <Workshop name="Repair Key" id="2954442228" />
+  <Workshop name="Condition Bars for Interaction Labels" id="3471496395" />
+</mods>
