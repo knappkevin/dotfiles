@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<mods name="neruo">
+<mods name="neuro">
   <Vanilla />
   <Workshop name="Lua For Barotrauma" id="2559634234" />
   <Workshop name="Lua For Barotrauma Linux" id="2970628943" />
@@ -13,5 +13,4 @@
   <Workshop name="Condition Bars for Interaction Labels" id="3471496395" />
   <Workshop name="Neurotrauma" id="3190189044" />
   <Workshop name="Mercy Hospital Updated" id="3355559986" />
-  <Workshop name="Neurotrauma MedAssistant" id="3235624897" />
 </mods>
